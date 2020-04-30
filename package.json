@@ -28,7 +28,7 @@
     "bootstrap": "^3.3.7",
     "core-js": "^2.5.4",
     "git-url-parse": "^11.1.2",
-    "jquery": "^3.2.1",
+    "jquery": "^3.5.0",
     "jqueryui": "^1.11.1",
     "moment": "^2.24.0",
     "ngx-typeahead": "^6.2.0",
